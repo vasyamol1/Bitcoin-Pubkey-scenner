@@ -1,5 +1,15 @@
 Bitcoin Pubkeyscenner
 
+install python 3
+
+(install package)
+
+pip3 install bitcoin
+
+(run)
+
+python Pubkeyscenner.py
+
 https://github.com/160Bit/all-balane-address-75-Million-ADDR-HEX-Brainflayer-or-BitCrack
 
 All Bitcoin Pubkey.txt
