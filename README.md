@@ -8,7 +8,7 @@ pip3 install bitcoin
 
 (run)
 
-# python Pubkeyscenner.py
+python Pubkeyscenner.py
 
 https://github.com/160Bit/all-balane-address-75-Million-ADDR-HEX-Brainflayer-or-BitCrack
 
@@ -33,7 +33,7 @@ pip3 install bitcoin
 
 (run)
 
-# btc-eth-pubkey-scanner.py
+btc-eth-pubkey-scanner.py
 
 https://mega.nz/#!ZcdUEQhD
 
