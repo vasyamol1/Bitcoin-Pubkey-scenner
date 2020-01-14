@@ -33,7 +33,9 @@ pip3 install bitcoin
 
 (run)
 
-btc-eth-pubkey-scanner.py
+python btc-eth-pubkey-scanner.py
+
+All Bitcoin btc-eth-Pubkey.txt
 
 https://mega.nz/#!ZcdUEQhD
 
